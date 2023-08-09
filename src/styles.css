@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+}
+
+.star {
+  font-size: 25px;
+  padding: 0.5rem;
+}
+
+.star.active {
+  color: gold;
+}
